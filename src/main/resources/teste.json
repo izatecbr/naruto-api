@@ -1,0 +1,9 @@
+{
+  "nome": "Gaara",
+  "chakra": 100,
+  "vida": 950,
+  "jutsus": {
+    "Areia Explosiva": 400,
+    "Barreira de Areia": 300
+  }
+}
